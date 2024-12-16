@@ -31,7 +31,7 @@ The existing shift-swapping system relies on a Slack channel where TAs manually 
  └── sequential.py         # Implementation of the Sequential Algorithm
 ```
 
-For more detailed project insights, see the [Final Project Paper](./Final%20Paper.pdf).
+For more detailed project insights, see Final Paper.docx
 
 
 
